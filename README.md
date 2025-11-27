@@ -1,6 +1,6 @@
-# Qui utilise mon appli? - Challenge Kaggle
+# who uses my application? - Challenge Kaggle
 
-Ce projet vise à prédire l'utilisateur d'un logiciel à partir de traces d'utilisation. Il s'agit d'une compétition de machine learning où l'objectif est de classifier les sessions utilisateurs en fonction de leurs comportements.
+Ce projet vise à prédire l'utilisateur d'un logiciel à partir ces traces d'utilisation. Il s'agit d'une compétition de machine learning où l'objectif est de classifier les sessions utilisateurs en fonction de leurs comportements.
 
 ## 📋 Table des matières
 
@@ -22,8 +22,8 @@ Le but de la compétition est de prédire l'utilisateur d'un logiciel à partir 
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/antara-walid/Qui-utilise-mon-appli-Challenge.git
-cd Qui-utilise-mon-appli-Challenge
+git clone https://github.com/aitkherimed1228/who-uses-my-application.git
+cd who-uses-my-application
 ```
 
 ### 2. Créer un environnement virtuel
